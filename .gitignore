@@ -63,3 +63,26 @@ Thumbs.db
 .Trashes
 ehthumbs.db
 Desktop.ini
+
+# PyCharm
+.idea/
+*.iml
+
+# Data files
+data/_about.txt
+data/fra.txt
+data/*.zip
+
+# Models
+models/*.pt
+models/*.pth
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Outputs
+outputs/
+logs/
